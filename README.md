@@ -46,11 +46,7 @@ Ensure you have Python installed. This game requires no additional packages othe
 - Additional game modes and difficulty levels.
 - Improved visual effects and animations.
 
-## License
-This project is not up for an open source project yet.
 
-## Contact
-For issues or contributions, please comment.
 
 ---
 
